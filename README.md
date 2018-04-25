@@ -10,7 +10,7 @@ The main file is a Jupyter notebook that presents all of the codes (written in M
 the numerical results presented in this work. The notebook can be most conveniently viewed 
 [here](https://nbviewer.jupyter.org/github/paulskrzypczyk/o-formalism-steering/blob/master/post-quantum-steering.ipynb).
 
-In order to run the Jupyter notebook, it is necessary to have installed
+In order to run (and not just view) the Jupyter notebook, it is necessary to have installed
 - [Jupyter notebook](http://jupyter.org/)
 - MATLAB and the [API for Python](https://uk.mathworks.com/help/matlab/matlab-engine-for-python.html)
 - The [MATLAB kernal](https://github.com/Calysto/matlab_kernel) for Jupyter.
